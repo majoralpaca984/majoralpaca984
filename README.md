@@ -75,7 +75,7 @@ npm start
 
 ## ![Connettiamoci](https://img.shields.io/badge/Connettiamoci-0A66C2?style=flat&logo=linkedin&logoColor=white)
 
-📧 **Email**: [eleonora_troiani@icloud.com](mailto:eleonora_troiani@icloud.com)
-💼 **LinkedIn**: [Eleonora Troiani](https://www.linkedin.com/feed/?trk=nav_back_to_linkedin)
+📧 **Email**: [codewithele@gmail.com](mailto:codewithele@gmail.com)
+
 
 Se trovi utile il mio lavoro, lascia una **star** ⭐ e seguimi per aggiornamenti!
