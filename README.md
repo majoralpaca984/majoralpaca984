@@ -10,7 +10,10 @@ Mi chiamo **Eleonora**, sono una **Web Developer** e **Full Stack Developer in f
 
 ## ![Chi Sono](https://img.shields.io/badge/Chi%20Sono-181717?style=flat&logo=github&logoColor=white)
 
-<img src="https://i.imgur.com/OjGifD2.jpeg" width="50%" height="220px" style="display: block; margin: auto;" />
+<p align="center">
+  <img src="https://i.imgur.com/OjGifD2.jpeg" width="50%" height="220px" />
+</p>
+
 
 Sono una **studentessa di informatica** con una forte passione per lo sviluppo **full stack**. Amo costruire applicazioni web moderne, scalabili e performanti, con un occhio di riguardo alla **User Experience** e all’**ottimizzazione del codice**.
 
