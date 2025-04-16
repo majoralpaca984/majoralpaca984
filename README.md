@@ -1,6 +1,6 @@
 # 👋 Benvenuti nel mio profilo GitHub!
 
-Mi chiamo **Eleonora**, sono una **Web Developer** e **Full Stack Developer in formazione**, appassionata di tecnologia, codice pulito e innovazione.
+Mi chiamo **Eleonora**, sono una **Web Developer** e **Full Stack MERN in formazione**, appassionata di tecnologia, codice pulito e innovazione.
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/majoralpaca984/majoralpaca984)
 ![GitHub stars](https://img.shields.io/github/stars/majoralpaca984/majoralpaca984?style=social)
