@@ -15,7 +15,7 @@ Mi chiamo **Eleonora**, sono una **Web Developer** e **Full Stack MERN in formaz
 </p>
 
 
-Sono una **studentessa di informatica** con una forte passione per lo sviluppo **full stack**. Amo costruire applicazioni web moderne, scalabili e performanti, con un occhio di riguardo alla **User Experience** e all’**ottimizzazione del codice**.
+Ho una forte passione per lo sviluppo **full stack**. Amo costruire applicazioni web moderne, scalabili e performanti, con un occhio di riguardo alla **User Experience** e all’**ottimizzazione del codice**.
 
 ---
 
