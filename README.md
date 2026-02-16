@@ -70,11 +70,6 @@ Ecco alcuni progetti su cui ho lavorato o sto lavorando:
 🧠 Linguaggi più usati:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majoralpaca984&layout=compact&theme=radical" width="50%"/> </p>
 
-### 📈 Attività recente:
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=majoralpaca984&theme=radical" width="100%"/>
-</p>
 
 ## ![Connettiamoci](https://img.shields.io/badge/Connettiamoci-0A66C2?style=flat&logo=linkedin&logoColor=white)
 
