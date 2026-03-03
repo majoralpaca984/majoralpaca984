@@ -65,11 +65,6 @@ Ecco alcuni progetti su cui ho lavorato o sto lavorando:
 ## ![Come Eseguire](https://img.shields.io/badge/Come%20Eseguire-4B8BBE?style=flat&logo=gnubash&logoColor=white)
 
 
-🚀 Le mie statistiche su GitHub:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=majoralpaca984&show_icons=true&theme=radical&hide_title=true" width="50%"/> </p>
-🧠 Linguaggi più usati:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majoralpaca984&layout=compact&theme=radical" width="50%"/> </p>
-
 
 ## ![Connettiamoci](https://img.shields.io/badge/Connettiamoci-0A66C2?style=flat&logo=linkedin&logoColor=white)
 
