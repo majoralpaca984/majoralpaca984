@@ -14,8 +14,14 @@ Mi chiamo **Eleonora**, sono una **Web Developer** e **Full Stack MERN in formaz
   <img src="https://i.imgur.com/OjGifD2.jpeg" width="50%" height="220px" />
 </p>
 
-
 Ho una forte passione per lo sviluppo **full stack**. Amo costruire applicazioni web moderne, scalabili e performanti, con un occhio di riguardo alla **User Experience** e all’**ottimizzazione del codice**.
+
+---
+
+## 🌐 Link utili (ultimi aggiornamenti)
+- 🧑‍💻 **Portfolio**: https://www.eleonoratroiani.dev  
+- ✅ **Progetto 1 — Prenotazioni Online (Live)**: https://prenotazioni-online.vercel.app  
+- 🌦️ **Progetto 2 — Meteo App (Live)**: https://meteo-app-ebon.vercel.app  
 
 ---
 
@@ -34,7 +40,6 @@ Ecco alcune delle tecnologie che utilizzo nel mio stack:
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/><br>MongoDB</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/><br>Git</td>
     <td align="center"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="50" height="50"/><br>AWS</td>
-
   </tr>
 </table>
 
@@ -55,8 +60,28 @@ Ecco alcune delle tecnologie che utilizzo nel mio stack:
 
 Ecco alcuni progetti su cui ho lavorato o sto lavorando:
 
+### ✅ Prenotazioni Online (Full Stack)
+🌐 Live: https://prenotazioni-online.vercel.app  
+🧩 Stack: **React • Node/Express • MongoDB**
+
+- Autenticazione e gestione accessi
+- **CRUD completo** (creazione/modifica/cancellazione prenotazioni)
+- UI responsive + deploy su **Vercel**
+
+---
+
+### 🌦️ Meteo App (Frontend + API)
+🌐 Live: https://meteo-app-ebon.vercel.app  
+🧩 Stack: **React • API • UI Responsive**
+
+- Ricerca città e visualizzazione dati meteo
+- Gestione stati UI (loading / error / risultati)
+- Layout mobile-first
+
+---
+
+### 🔜 Altri progetti (in crescita)
 - 🌐 **Marketplace Full Stack** – Applicazione e-commerce con autenticazione, gestione carrello e dashboard admin.
-- 📱 **React Native App** – Applicazione mobile responsive con navigazione avanzata.
 - 🛠 **API REST con Express.js & MongoDB** – Progetto backend per gestione utenti, prodotti e ordini.
 - 📊 **Dashboard Analytics** – Visualizzazione dati con chart interattive e filtri dinamici.
 
@@ -64,14 +89,29 @@ Ecco alcuni progetti su cui ho lavorato o sto lavorando:
 
 ## ![Come Eseguire](https://img.shields.io/badge/Come%20Eseguire-4B8BBE?style=flat&logo=gnubash&logoColor=white)
 
+Se vuoi eseguire i miei progetti in locale (quando la repo è disponibile):
 
+1) Clona la repository
+
+    git clone https://github.com/majoralpaca984/NOME_REPO.git
+    cd NOME_REPO
+
+2) Installa le dipendenze
+
+    npm install
+
+3) Avvia il progetto
+
+    npm run dev
+
+> Per i progetti full stack, di solito trovi una cartella **client** e una **server**: avvia entrambi in due terminali separati.
+
+---
 
 ## ![Connettiamoci](https://img.shields.io/badge/Connettiamoci-0A66C2?style=flat&logo=linkedin&logoColor=white)
 
 📧 **Email**: [codewithele@gmail.com](mailto:codewithele@gmail.com)
 
-
 💬 “Il codice è poesia… ma anche debugging è arte.”
 
-Se ti piace quello che faccio, lascia una ⭐ star o seguimi per nuovi progetti! """
-
+Se ti piace quello che faccio, lascia una ⭐ star o seguimi per nuovi progetti!
