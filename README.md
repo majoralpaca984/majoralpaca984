@@ -1,117 +1,65 @@
-# 👋 Benvenuti nel mio profilo GitHub!
+# Ciao, sono Eleonora Troiani 👋
 
-Mi chiamo **Eleonora**, sono una **Web Developer** e **Full Stack MERN in formazione**, appassionata di tecnologia, codice pulito e innovazione.
+### Sviluppatrice web junior MERN | Certificata AWS
 
-![GitHub repo size](https://img.shields.io/github/repo-size/majoralpaca984/majoralpaca984)
-![GitHub stars](https://img.shields.io/github/stars/majoralpaca984/majoralpaca984?style=social)
-![GitHub license](https://img.shields.io/github/license/majoralpaca984/majoralpaca984)
+Sono una sviluppatrice web junior e sto ampliando il mio percorso professionale verso l’informatica in cloud. Mi piace trasformare esigenze reali in applicazioni pratiche, unendo interfacce intuitive, servizi lato server e tecnologie cloud.
 
----
+Attualmente sto studiando per conseguire la certificazione AWS dedicata agli architetti di soluzioni di livello Associate e sto approfondendo la progettazione di infrastrutture cloud e applicazioni gestite senza server.
 
-## ![Chi Sono](https://img.shields.io/badge/Chi%20Sono-181717?style=flat&logo=github&logoColor=white)
+## 🚀 Progetti principali
 
-<p align="center">
-  <img src="https://i.imgur.com/OjGifD2.jpeg" width="50%" height="220px" />
+### Meteora — Applicazione per le previsioni meteo
+
+Applicazione meteo completa con ricerca per città, geolocalizzazione, condizioni attuali, previsioni orarie e andamento dei sette giorni successivi. Comprende preferiti, ricerche recenti, memorizzazione temporanea dei dati e collegamento diretto a Open-Meteo quando il servizio principale non è disponibile.
+
+**Tecnologie utilizzate:** React, Vite, Node.js, Express, API REST, Vercel e Render
+
+[Prova l’applicazione](https://meteo-app-ebon.vercel.app) · [Consulta il codice](https://github.com/majoralpaca984/meteoApp)
+
+### EasyCare — Gestione delle prenotazioni
+
+Applicazione completa nata dall’esperienza diretta nei processi di prenotazione. Comprende autenticazione, gestione degli appuntamenti, inserimento, modifica ed eliminazione dei dati e un’interfaccia adatta anche ai dispositivi mobili.
+
+**Tecnologie utilizzate:** React, Node.js, Express, MongoDB, JWT, Google OAuth, Vercel e Render
+
+[Prova l’applicazione](https://prenotazioni-online.vercel.app) · [Consulta il codice](https://github.com/majoralpaca984/prenotazioniApp)
+
+### Riproduzione di Spotify — Progetto di gruppo
+
+Progetto realizzato in collaborazione con un gruppo di sviluppatori durante una settimana intensiva di lavoro, con l’obiettivo di riprodurre l’interfaccia e alcune funzionalità principali di Spotify.
+
+**Tecnologie utilizzate:** HTML, CSS, JavaScript e Bootstrap
+
+[Prova l’applicazione](https://4-1-build-week-ch-1.vercel.app) · [Consulta il codice](https://github.com/majoralpaca984/4.1_Build-Week-CH1)
+
+## 🛠️ Competenze tecniche
+
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,nodejs,express,mongodb,aws,git,github,postman,vite&perline=8"
+    alt="Tecnologie e strumenti utilizzati"
+  />
 </p>
 
-Ho una forte passione per lo sviluppo **full stack**. Amo costruire applicazioni web moderne, scalabili e performanti, con un occhio di riguardo alla **User Experience** e all’**ottimizzazione del codice**.
+* **Interfacce:** React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS e Bootstrap
+* **Servizi lato server:** Node.js, Express, API REST, MongoDB e Mongoose
+* **Servizi cloud:** AWS IAM, Lambda, API Gateway, DynamoDB e Amplify
+* **Strumenti di lavoro:** Git, GitHub, Postman, Vite, Vercel e Render
 
----
+## 📚 Cosa sto studiando
 
-## 🌐 Link utili (ultimi aggiornamenti)
-- 🧑‍💻 **Portfolio**: https://www.eleonoratroiani.dev  
-- ✅ **Progetto 1 — Prenotazioni Online (Live)**: https://prenotazioni-online.vercel.app  
-- 🌦️ **Progetto 2 — Meteo App (Live)**: https://meteo-app-ebon.vercel.app  
+* Architetture AWS e principi del Well-Architected Framework
+* Progettazione di applicazioni gestite senza server
+* Gestione dell’infrastruttura attraverso il codice con Terraform
+* Test automatici e processi di integrazione e distribuzione continua
 
----
+## 🎓 Certificazioni
 
-## ![Competenze Tecniche](https://img.shields.io/badge/Competenze%20Tecniche-000000?style=flat&logo=visualstudiocode&logoColor=white)
+* AWS Certified Cloud Practitioner
+* Certificazione di inglese di livello B1
 
-Ecco alcune delle tecnologie che utilizzo nel mio stack:
+## 📫 Contatti
 
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/><br>HTML5</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/><br>CSS3</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/><br>JavaScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/><br>React</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/><br>Node.js</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/><br>Express.js</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/><br>MongoDB</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/><br>Git</td>
-    <td align="center"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="50" height="50"/><br>AWS</td>
-  </tr>
-</table>
-
----
-
-### 🔧 Altre competenze e strumenti
-- **API RESTful Design**
-- **Postman** per test API
-- **MongoDB Atlas** per database cloud
-- **GitHub Projects & Issues** per gestione e collaborazione
-- **Responsività e Mobile First Design**
-- **Test & Debugging con DevTools**
-- **Agile/Scrum basics**
-
----
-
-## ![Progetti](https://img.shields.io/badge/Progetti-00599C?style=flat&logo=vercel&logoColor=white)
-
-Ecco alcuni progetti su cui ho lavorato o sto lavorando:
-
-### ✅ Prenotazioni Online (Full Stack)
-🌐 Live: https://prenotazioni-online.vercel.app  
-🧩 Stack: **React • Node/Express • MongoDB**
-
-- Autenticazione e gestione accessi
-- **CRUD completo** (creazione/modifica/cancellazione prenotazioni)
-- UI responsive + deploy su **Vercel**
-
----
-
-### 🌦️ Meteo App (Frontend + API)
-🌐 Live: https://meteo-app-ebon.vercel.app  
-🧩 Stack: **React • API • UI Responsive**
-
-- Ricerca città e visualizzazione dati meteo
-- Gestione stati UI (loading / error / risultati)
-- Layout mobile-first
-
----
-
-### 🔜 Altri progetti (in crescita)
-- 🌐 **Marketplace Full Stack** – Applicazione e-commerce con autenticazione, gestione carrello e dashboard admin.
-- 🛠 **API REST con Express.js & MongoDB** – Progetto backend per gestione utenti, prodotti e ordini.
-- 📊 **Dashboard Analytics** – Visualizzazione dati con chart interattive e filtri dinamici.
-
----
-
-## ![Come Eseguire](https://img.shields.io/badge/Come%20Eseguire-4B8BBE?style=flat&logo=gnubash&logoColor=white)
-
-Se vuoi eseguire i miei progetti in locale (quando la repo è disponibile):
-
-1) Clona la repository
-
-    git clone https://github.com/majoralpaca984/NOME_REPO.git
-    cd NOME_REPO
-
-2) Installa le dipendenze
-
-    npm install
-
-3) Avvia il progetto
-
-    npm run dev
-
-> Per i progetti full stack, di solito trovi una cartella **client** e una **server**: avvia entrambi in due terminali separati.
-
----
-
-## ![Connettiamoci](https://img.shields.io/badge/Connettiamoci-0A66C2?style=flat&logo=linkedin&logoColor=white)
-
-📧 **Email**: [codewithele@gmail.com](mailto:codewithele@gmail.com)
-
-💬 “Il codice è poesia… ma anche debugging è arte.”
-
-Se ti piace quello che faccio, lascia una ⭐ star o seguimi per nuovi progetti!
+* [Portfolio personale](https://www.eleonoratroiani.dev)
+* [Profilo GitHub](https://github.com/majoralpaca984)
+* [Indirizzo email](mailto:codewithele@gmail.com)
