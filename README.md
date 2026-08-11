@@ -4,7 +4,7 @@
 
 Sono una sviluppatrice web junior e sto ampliando il mio percorso professionale verso l’informatica in cloud. Mi piace trasformare esigenze reali in applicazioni pratiche, unendo interfacce intuitive, servizi lato server e tecnologie cloud.
 
-Attualmente sto studiando per conseguire la certificazione AWS dedicata agli architetti di soluzioni di livello Associate e sto approfondendo la progettazione di infrastrutture cloud e applicazioni gestite senza server.
+Attualmente sto studiando per conseguire la certificazione AWS Solution Architect e sto approfondendo la progettazione di infrastrutture cloud e applicazioni gestite senza server.
 
 ## 🚀 Progetti principali
 
