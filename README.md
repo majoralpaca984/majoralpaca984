@@ -60,6 +60,6 @@ Progetto realizzato in collaborazione con un gruppo di sviluppatori durante una 
 
 ## 📫 Contatti
 
-* [Portfolio personale](https://www.eleonoratroiani.dev)
+* [Portfolio personale](https://www.eleonoratroiani.com)
 * [Profilo GitHub](https://github.com/majoralpaca984)
 * [Indirizzo email](mailto:codewithele@gmail.com)
